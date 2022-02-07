@@ -1,0 +1,118 @@
+L 02/03/2022 - 01:00:06: Error log file session closed.
+L 02/03/2022 - 01:02:38: SourceMod error session started
+L 02/03/2022 - 01:02:38: Info (map "c1m2_streets") (file "C:\Users\David\Games\Left 4 Dead 2\Components\left4dead2\addons\sourcemod\logs\errors_20220203.log")
+L 02/03/2022 - 01:02:38: [left4dhooks.smx] Failed to find signature: "CDirector::ForceNextStage::Address" (WIN/2/1.86)
+L 02/03/2022 - 01:02:38: [left4dhooks.smx] Failed to find signature: "CTerrorGameRules::IsRealismMode" (WIN/2/1.86)
+L 02/03/2022 - 01:02:38: [left4dhooks.smx] Failed to find signature: "CTerrorPlayer::CancelStagger" (WIN/2/1.86)
+L 02/03/2022 - 01:02:38: [left4dhooks.smx] Failed to find signature: "CDirector::RegisterForbiddenTarget" (WIN/2/1.86)
+L 02/03/2022 - 01:02:38: [left4dhooks.smx] Failed to find signature: "CDirector::UnregisterForbiddenTarget" (WIN/2/1.86)
+L 02/03/2022 - 01:02:38: [left4dhooks.smx] Failed to load detour "L4DD::SurvivorBot::UseHealingItems" signature (WIN/2/1.86).
+L 02/03/2022 - 01:04:17: Error log file session closed.
+L 02/03/2022 - 07:03:27: SourceMod error session started
+L 02/03/2022 - 07:03:27: Info (map "c1m4_atrium") (file "C:\Users\David\Games\Left 4 Dead 2\Components\left4dead2\addons\sourcemod\logs\errors_20220203.log")
+L 02/03/2022 - 07:03:27: [left4dhooks.smx] Failed to find signature: "CDirector::ForceNextStage::Address" (WIN/2/1.86)
+L 02/03/2022 - 07:03:27: [left4dhooks.smx] Failed to find signature: "CTerrorGameRules::IsRealismMode" (WIN/2/1.86)
+L 02/03/2022 - 07:03:27: [left4dhooks.smx] Failed to find signature: "CTerrorPlayer::CancelStagger" (WIN/2/1.86)
+L 02/03/2022 - 07:03:27: [left4dhooks.smx] Failed to find signature: "CDirector::RegisterForbiddenTarget" (WIN/2/1.86)
+L 02/03/2022 - 07:03:27: [left4dhooks.smx] Failed to find signature: "CDirector::UnregisterForbiddenTarget" (WIN/2/1.86)
+L 02/03/2022 - 07:03:27: [left4dhooks.smx] Failed to load detour "L4DD::SurvivorBot::UseHealingItems" signature (WIN/2/1.86).
+L 02/03/2022 - 07:09:41: Error log file session closed.
+L 02/03/2022 - 08:25:00: SourceMod error session started
+L 02/03/2022 - 08:25:00: Info (map "c1m2_streets") (file "C:\Users\David\Games\Left 4 Dead 2\Components\left4dead2\addons\sourcemod\logs\errors_20220203.log")
+L 02/03/2022 - 08:25:00: [left4dhooks.smx] Failed to find signature: "CDirector::ForceNextStage::Address" (WIN/2/1.86)
+L 02/03/2022 - 08:25:00: [left4dhooks.smx] Failed to find signature: "CTerrorGameRules::IsRealismMode" (WIN/2/1.86)
+L 02/03/2022 - 08:25:00: [left4dhooks.smx] Failed to find signature: "CTerrorPlayer::CancelStagger" (WIN/2/1.86)
+L 02/03/2022 - 08:25:00: [left4dhooks.smx] Failed to find signature: "CDirector::RegisterForbiddenTarget" (WIN/2/1.86)
+L 02/03/2022 - 08:25:00: [left4dhooks.smx] Failed to find signature: "CDirector::UnregisterForbiddenTarget" (WIN/2/1.86)
+L 02/03/2022 - 08:25:00: [left4dhooks.smx] Failed to load detour "L4DD::SurvivorBot::UseHealingItems" signature (WIN/2/1.86).
+L 02/03/2022 - 08:49:15: Error log file session closed.
+L 02/03/2022 - 11:34:19: SourceMod error session started
+L 02/03/2022 - 11:34:19: Info (map "c1m2_streets") (file "C:\Users\David\Games\Left 4 Dead 2\Components\left4dead2\addons\sourcemod\logs\errors_20220203.log")
+L 02/03/2022 - 11:34:19: [left4dhooks.smx] Failed to find signature: "CDirector::ForceNextStage::Address" (WIN/2/1.86)
+L 02/03/2022 - 11:34:19: [left4dhooks.smx] Failed to find signature: "CTerrorGameRules::IsRealismMode" (WIN/2/1.86)
+L 02/03/2022 - 11:34:19: [left4dhooks.smx] Failed to find signature: "CTerrorPlayer::CancelStagger" (WIN/2/1.86)
+L 02/03/2022 - 11:34:19: [left4dhooks.smx] Failed to find signature: "CDirector::RegisterForbiddenTarget" (WIN/2/1.86)
+L 02/03/2022 - 11:34:19: [left4dhooks.smx] Failed to find signature: "CDirector::UnregisterForbiddenTarget" (WIN/2/1.86)
+L 02/03/2022 - 11:34:19: [left4dhooks.smx] Failed to load detour "L4DD::SurvivorBot::UseHealingItems" signature (WIN/2/1.86).
+L 02/03/2022 - 11:42:03: Error log file session closed.
+L 02/03/2022 - 12:20:58: SourceMod error session started
+L 02/03/2022 - 12:20:58: Info (map "c6m1_riverbank") (file "C:\Users\David\Games\Left 4 Dead 2\Components\left4dead2\addons\sourcemod\logs\errors_20220203.log")
+L 02/03/2022 - 12:20:58: [left4dhooks.smx] Failed to find signature: "CDirector::ForceNextStage::Address" (WIN/2/1.86)
+L 02/03/2022 - 12:20:58: [left4dhooks.smx] Failed to find signature: "CTerrorGameRules::IsRealismMode" (WIN/2/1.86)
+L 02/03/2022 - 12:20:58: [left4dhooks.smx] Failed to find signature: "CTerrorPlayer::CancelStagger" (WIN/2/1.86)
+L 02/03/2022 - 12:20:58: [left4dhooks.smx] Failed to find signature: "CDirector::RegisterForbiddenTarget" (WIN/2/1.86)
+L 02/03/2022 - 12:20:58: [left4dhooks.smx] Failed to find signature: "CDirector::UnregisterForbiddenTarget" (WIN/2/1.86)
+L 02/03/2022 - 12:20:58: [left4dhooks.smx] Failed to load detour "L4DD::SurvivorBot::UseHealingItems" signature (WIN/2/1.86).
+L 02/03/2022 - 12:30:38: Error log file session closed.
+L 02/03/2022 - 12:47:59: SourceMod error session started
+L 02/03/2022 - 12:47:59: Info (map "c6m3_port") (file "C:\Users\David\Games\Left 4 Dead 2\Components\left4dead2\addons\sourcemod\logs\errors_20220203.log")
+L 02/03/2022 - 12:47:59: [left4dhooks.smx] Failed to find signature: "CDirector::ForceNextStage::Address" (WIN/2/1.86)
+L 02/03/2022 - 12:47:59: [left4dhooks.smx] Failed to find signature: "CTerrorGameRules::IsRealismMode" (WIN/2/1.86)
+L 02/03/2022 - 12:47:59: [left4dhooks.smx] Failed to find signature: "CTerrorPlayer::CancelStagger" (WIN/2/1.86)
+L 02/03/2022 - 12:47:59: [left4dhooks.smx] Failed to find signature: "CDirector::RegisterForbiddenTarget" (WIN/2/1.86)
+L 02/03/2022 - 12:47:59: [left4dhooks.smx] Failed to find signature: "CDirector::UnregisterForbiddenTarget" (WIN/2/1.86)
+L 02/03/2022 - 12:47:59: [left4dhooks.smx] Failed to load detour "L4DD::SurvivorBot::UseHealingItems" signature (WIN/2/1.86).
+L 02/03/2022 - 12:55:12: Error log file session closed.
+L 02/03/2022 - 12:59:51: SourceMod error session started
+L 02/03/2022 - 12:59:51: Info (map "c6m3_port") (file "C:\Users\David\Games\Left 4 Dead 2\Components\left4dead2\addons\sourcemod\logs\errors_20220203.log")
+L 02/03/2022 - 12:59:51: [left4dhooks.smx] Failed to find signature: "CDirector::ForceNextStage::Address" (WIN/2/1.86)
+L 02/03/2022 - 12:59:51: [left4dhooks.smx] Failed to find signature: "CTerrorGameRules::IsRealismMode" (WIN/2/1.86)
+L 02/03/2022 - 12:59:51: [left4dhooks.smx] Failed to find signature: "CTerrorPlayer::CancelStagger" (WIN/2/1.86)
+L 02/03/2022 - 12:59:51: [left4dhooks.smx] Failed to find signature: "CDirector::RegisterForbiddenTarget" (WIN/2/1.86)
+L 02/03/2022 - 12:59:51: [left4dhooks.smx] Failed to find signature: "CDirector::UnregisterForbiddenTarget" (WIN/2/1.86)
+L 02/03/2022 - 12:59:51: [left4dhooks.smx] Failed to load detour "L4DD::SurvivorBot::UseHealingItems" signature (WIN/2/1.86).
+L 02/03/2022 - 13:19:48: Error log file session closed.
+L 02/03/2022 - 13:51:39: SourceMod error session started
+L 02/03/2022 - 13:51:39: Info (map "c2m1_highway") (file "C:\Users\David\Games\Left 4 Dead 2\Components\left4dead2\addons\sourcemod\logs\errors_20220203.log")
+L 02/03/2022 - 13:51:39: [left4dhooks.smx] Failed to find signature: "CDirector::ForceNextStage::Address" (WIN/2/1.86)
+L 02/03/2022 - 13:51:39: [left4dhooks.smx] Failed to find signature: "CTerrorGameRules::IsRealismMode" (WIN/2/1.86)
+L 02/03/2022 - 13:51:39: [left4dhooks.smx] Failed to find signature: "CTerrorPlayer::CancelStagger" (WIN/2/1.86)
+L 02/03/2022 - 13:51:39: [left4dhooks.smx] Failed to find signature: "CDirector::RegisterForbiddenTarget" (WIN/2/1.86)
+L 02/03/2022 - 13:51:39: [left4dhooks.smx] Failed to find signature: "CDirector::UnregisterForbiddenTarget" (WIN/2/1.86)
+L 02/03/2022 - 13:51:39: [left4dhooks.smx] Failed to load detour "L4DD::SurvivorBot::UseHealingItems" signature (WIN/2/1.86).
+L 02/03/2022 - 14:10:48: Error log file session closed.
+L 02/03/2022 - 18:23:45: SourceMod error session started
+L 02/03/2022 - 18:23:45: Info (map "c2m2_fairgrounds") (file "C:\Users\David\Games\Left 4 Dead 2\Components\left4dead2\addons\sourcemod\logs\errors_20220203.log")
+L 02/03/2022 - 18:23:45: [left4dhooks.smx] Failed to find signature: "CDirector::ForceNextStage::Address" (WIN/2/1.86)
+L 02/03/2022 - 18:23:45: [left4dhooks.smx] Failed to find signature: "CTerrorGameRules::IsRealismMode" (WIN/2/1.86)
+L 02/03/2022 - 18:23:45: [left4dhooks.smx] Failed to find signature: "CTerrorPlayer::CancelStagger" (WIN/2/1.86)
+L 02/03/2022 - 18:23:45: [left4dhooks.smx] Failed to find signature: "CDirector::RegisterForbiddenTarget" (WIN/2/1.86)
+L 02/03/2022 - 18:23:45: [left4dhooks.smx] Failed to find signature: "CDirector::UnregisterForbiddenTarget" (WIN/2/1.86)
+L 02/03/2022 - 18:23:45: [left4dhooks.smx] Failed to load detour "L4DD::SurvivorBot::UseHealingItems" signature (WIN/2/1.86).
+L 02/03/2022 - 18:29:30: Error log file session closed.
+L 02/03/2022 - 18:48:28: SourceMod error session started
+L 02/03/2022 - 18:48:28: Info (map "c6m2_bedlam") (file "C:\Users\David\Games\Left 4 Dead 2\Components\left4dead2\addons\sourcemod\logs\errors_20220203.log")
+L 02/03/2022 - 18:48:28: [left4dhooks.smx] Failed to find signature: "CDirector::ForceNextStage::Address" (WIN/2/1.86)
+L 02/03/2022 - 18:48:28: [left4dhooks.smx] Failed to find signature: "CTerrorGameRules::IsRealismMode" (WIN/2/1.86)
+L 02/03/2022 - 18:48:28: [left4dhooks.smx] Failed to find signature: "CTerrorPlayer::CancelStagger" (WIN/2/1.86)
+L 02/03/2022 - 18:48:28: [left4dhooks.smx] Failed to find signature: "CDirector::RegisterForbiddenTarget" (WIN/2/1.86)
+L 02/03/2022 - 18:48:28: [left4dhooks.smx] Failed to find signature: "CDirector::UnregisterForbiddenTarget" (WIN/2/1.86)
+L 02/03/2022 - 18:48:28: [left4dhooks.smx] Failed to load detour "L4DD::SurvivorBot::UseHealingItems" signature (WIN/2/1.86).
+L 02/03/2022 - 18:54:42: Error log file session closed.
+L 02/03/2022 - 18:56:29: SourceMod error session started
+L 02/03/2022 - 18:56:29: Info (map "c1m1_hotel") (file "C:\Users\David\Games\Left 4 Dead 2\Components\left4dead2\addons\sourcemod\logs\errors_20220203.log")
+L 02/03/2022 - 18:56:29: [left4dhooks.smx] Failed to find signature: "CDirector::ForceNextStage::Address" (WIN/2/1.86)
+L 02/03/2022 - 18:56:29: [left4dhooks.smx] Failed to find signature: "CTerrorGameRules::IsRealismMode" (WIN/2/1.86)
+L 02/03/2022 - 18:56:29: [left4dhooks.smx] Failed to find signature: "CTerrorPlayer::CancelStagger" (WIN/2/1.86)
+L 02/03/2022 - 18:56:29: [left4dhooks.smx] Failed to find signature: "CDirector::RegisterForbiddenTarget" (WIN/2/1.86)
+L 02/03/2022 - 18:56:29: [left4dhooks.smx] Failed to find signature: "CDirector::UnregisterForbiddenTarget" (WIN/2/1.86)
+L 02/03/2022 - 18:56:29: [left4dhooks.smx] Failed to load detour "L4DD::SurvivorBot::UseHealingItems" signature (WIN/2/1.86).
+L 02/03/2022 - 18:56:54: Error log file session closed.
+L 02/03/2022 - 18:58:31: SourceMod error session started
+L 02/03/2022 - 18:58:31: Info (map "c1m1_hotel") (file "C:\Users\David\Games\Left 4 Dead 2\Components\left4dead2\addons\sourcemod\logs\errors_20220203.log")
+L 02/03/2022 - 18:58:31: [left4dhooks.smx] Failed to find signature: "CDirector::ForceNextStage::Address" (WIN/2/1.86)
+L 02/03/2022 - 18:58:31: [left4dhooks.smx] Failed to find signature: "CTerrorGameRules::IsRealismMode" (WIN/2/1.86)
+L 02/03/2022 - 18:58:31: [left4dhooks.smx] Failed to find signature: "CTerrorPlayer::CancelStagger" (WIN/2/1.86)
+L 02/03/2022 - 18:58:31: [left4dhooks.smx] Failed to find signature: "CDirector::RegisterForbiddenTarget" (WIN/2/1.86)
+L 02/03/2022 - 18:58:31: [left4dhooks.smx] Failed to find signature: "CDirector::UnregisterForbiddenTarget" (WIN/2/1.86)
+L 02/03/2022 - 18:58:31: [left4dhooks.smx] Failed to load detour "L4DD::SurvivorBot::UseHealingItems" signature (WIN/2/1.86).
+L 02/03/2022 - 18:59:21: Error log file session closed.
+L 02/03/2022 - 23:53:28: SourceMod error session started
+L 02/03/2022 - 23:53:28: Info (map "c6m3_port") (file "C:\Users\David\Games\Left 4 Dead 2\Components\left4dead2\addons\sourcemod\logs\errors_20220203.log")
+L 02/03/2022 - 23:53:28: [left4dhooks.smx] Failed to find signature: "CDirector::ForceNextStage::Address" (WIN/2/1.86)
+L 02/03/2022 - 23:53:29: [left4dhooks.smx] Failed to find signature: "CTerrorGameRules::IsRealismMode" (WIN/2/1.86)
+L 02/03/2022 - 23:53:29: [left4dhooks.smx] Failed to find signature: "CTerrorPlayer::CancelStagger" (WIN/2/1.86)
+L 02/03/2022 - 23:53:29: [left4dhooks.smx] Failed to find signature: "CDirector::RegisterForbiddenTarget" (WIN/2/1.86)
+L 02/03/2022 - 23:53:29: [left4dhooks.smx] Failed to find signature: "CDirector::UnregisterForbiddenTarget" (WIN/2/1.86)
+L 02/03/2022 - 23:53:29: [left4dhooks.smx] Failed to load detour "L4DD::SurvivorBot::UseHealingItems" signature (WIN/2/1.86).
+L 02/04/2022 - 00:07:16: Error log file session closed.

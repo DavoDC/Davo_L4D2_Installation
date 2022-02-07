@@ -1,0 +1,24 @@
+L 02/05/2022 - 13:24:01: SourceMod error session started
+L 02/05/2022 - 13:24:01: Info (map "c4m1_milltown_a") (file "C:\Users\David\Games\Left 4 Dead 2\Components\left4dead2\addons\sourcemod\logs\errors_20220205.log")
+L 02/05/2022 - 13:24:01: [left4dhooks.smx] Failed to find signature: "CDirector::ForceNextStage::Address" (WIN/2/1.86)
+L 02/05/2022 - 13:24:01: [left4dhooks.smx] Failed to find signature: "CTerrorGameRules::IsRealismMode" (WIN/2/1.86)
+L 02/05/2022 - 13:24:01: [left4dhooks.smx] Failed to find signature: "CTerrorPlayer::CancelStagger" (WIN/2/1.86)
+L 02/05/2022 - 13:24:01: [left4dhooks.smx] Failed to find signature: "CDirector::RegisterForbiddenTarget" (WIN/2/1.86)
+L 02/05/2022 - 13:24:01: [left4dhooks.smx] Failed to find signature: "CDirector::UnregisterForbiddenTarget" (WIN/2/1.86)
+L 02/05/2022 - 13:24:01: [left4dhooks.smx] Failed to load detour "L4DD::SurvivorBot::UseHealingItems" signature (WIN/2/1.86).
+L 02/05/2022 - 13:29:59: Error log file session closed.
+L 02/05/2022 - 14:50:45: SourceMod error session started
+L 02/05/2022 - 14:50:45: Info (map "c1m2_streets") (file "C:\Users\David\Games\Left 4 Dead 2\Components\left4dead2\addons\sourcemod\logs\errors_20220205.log")
+L 02/05/2022 - 14:50:45: [left4dhooks.smx] Failed to find signature: "CDirector::ForceNextStage::Address" (WIN/2/1.86)
+L 02/05/2022 - 14:50:45: [left4dhooks.smx] Failed to find signature: "CTerrorGameRules::IsRealismMode" (WIN/2/1.86)
+L 02/05/2022 - 14:50:45: [left4dhooks.smx] Failed to find signature: "CTerrorPlayer::CancelStagger" (WIN/2/1.86)
+L 02/05/2022 - 14:50:45: [left4dhooks.smx] Failed to find signature: "CDirector::RegisterForbiddenTarget" (WIN/2/1.86)
+L 02/05/2022 - 14:50:45: [left4dhooks.smx] Failed to find signature: "CDirector::UnregisterForbiddenTarget" (WIN/2/1.86)
+L 02/05/2022 - 14:50:45: [left4dhooks.smx] Failed to load detour "L4DD::SurvivorBot::UseHealingItems" signature (WIN/2/1.86).
+L 02/05/2022 - 14:51:32: [SM] Exception reported: Client index 0 is invalid
+L 02/05/2022 - 14:51:32: [SM] Blaming: l4d_sb.smx
+L 02/05/2022 - 14:51:32: [SM] Call stack trace:
+L 02/05/2022 - 14:51:32: [SM]   [0] FakeClientCommand
+L 02/05/2022 - 14:51:32: [SM]   [1] Line 97, /home/forums/content/files/7/3/0/5/4/84540.attach::StripAndExecuteClientCommand
+L 02/05/2022 - 14:51:32: [SM]   [2] Line 41, /home/forums/content/files/7/3/0/5/4/84540.attach::sm_sb
+L 02/05/2022 - 14:52:22: Error log file session closed.
