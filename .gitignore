@@ -83,6 +83,9 @@ left4dead2/addons/RUNY_MODS
 left4dead2/addons/MY_DISABLED_MODS
 left4dead2/addonlist.txt
 
+# Dont need logs
+left4dead2/addons/sourcemod/logs
+
 
 # Ignore left4dead2/cfg .cfg files that come with the game
 left4dead2/cfg/*.*
@@ -117,8 +120,5 @@ SmartSteamEmu/Plugins/SSEOverlay/550/icon
 
 
 
-
-
-
-
-
+left4dead2/addons/sourcemod/gamedata/left4dhooks.temp.txt
+left4dead2/addons/sourcemod/gamedata/left4dhooks.temp.txt
