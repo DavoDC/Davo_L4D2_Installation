@@ -6,6 +6,9 @@ SmartSteamEmu.INI
 SmartSteamEmu - Update GDrive.bat
 SmartSteamEmu*.bat
 
+# Ignore my pfp so people dont use
+SmartSteamEmu/Common/deku.png
+
 # Ignore files in main directory
 *.ekv
 debug.log
