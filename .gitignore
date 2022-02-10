@@ -1,4 +1,11 @@
 
+# Ignore config file so people can use their own
+SmartSteamEmu.INI
+
+# Ignore config file copy script since others wont need
+SmartSteamEmu - Update GDrive.bat
+SmartSteamEmu*.bat
+
 # Ignore files in main directory
 *.ekv
 debug.log
