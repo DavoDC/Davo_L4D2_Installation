@@ -80,7 +80,6 @@ left4dead2/downloads
 
 # Ignore left4dead2 addons folders
 left4dead2/addons/RUNY_MODS
-left4dead2/addons/MY_DISABLED_MODS
 left4dead2/addonlist.txt
 
 # Dont need logs
@@ -119,8 +118,6 @@ SmartSteamEmu/Plugins/SSEOverlay.ini
 SmartSteamEmu/Plugins/SSEOverlay/550/icon
 
 
-
-left4dead2/addons/sourcemod/gamedata/left4dhooks.temp.txt
+# Ignore misc files
 left4dead2/addons/sourcemod/gamedata/left4dhooks.temp.txt
 *.sq3
-left4dead2/addons/sourcemod/data/sqlite/clientprefs-sqlite.sq3
