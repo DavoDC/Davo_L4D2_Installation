@@ -5,14 +5,13 @@
 *.ekv
 *.bat
 
-# Ignore config files so people can use their own
+
+# Ignore personal files 
 SmartSteamEmu.INI
-
-# Ignore my pfp so people dont use
-/SmartSteamEmu/Common/deku.png
-
-# Ignore version , for me only
 /VERSION.txt
+/SmartSteamEmu/Common/deku.png
+/FitGirl.jpg
+
 
 # Ignore files in main directory
 /debug.log
@@ -34,7 +33,6 @@ SmartSteamEmu.INI
 /left4dead2_dlc3
 /left4dead2_dlc2
 /left4dead2_dlc1
-
 
 
 # Ignore SSE icons and files
@@ -72,7 +70,6 @@ SmartSteamEmu.INI
 /left4dead2/*.md
 /left4dead2/No_Friendly-Fire-8.5.md
 /left4dead2/Gun_Damage_Booster-7.0-README.md
-
 
 
 # Ignore left4dead2 addons folders
