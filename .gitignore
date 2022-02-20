@@ -5,22 +5,41 @@
 *.ekv
 *.bat
 
+### Ignore personal files 
+# Let them use their own username etc.
+/SmartSteamEmu.ini
 
-# Ignore personal files 
-SmartSteamEmu.INI
+# Differs for different installations
 /VERSION.txt
+
+# Personal pfp
 /SmartSteamEmu/Common/deku.png
+
+# Personal image for identifying installation
 /FitGirl.jpg
 
+
+
+### Ignore DLLs in main directory, let them use/choose their own
+# FitGirl
+/steamclient.dll
+# Goldberg
+/steam_api.dll
+# SSE
+/SmartSteamEmu.dll
 
 # Ignore files in main directory
 /debug.log
 /unins000.exe
 /unins000.dat
 /left4dead2.exe
-/steamclient.dll
 /steam_appid.txt
-/SmartSteamLoader.exe
+
+
+# Ignore some SSE icons and files
+/SmartSteamEmu/Plugins/SSEOverlay/550/icon
+/SmartSteamEmu/Plugins/SSEOverlay/550/achievements.db
+
 
 
 # Ignore folders in main directory
@@ -33,20 +52,13 @@ SmartSteamEmu.INI
 /left4dead2_dlc3
 /left4dead2_dlc2
 /left4dead2_dlc1
-
-
-# Ignore SSE icons and files
-/SmartSteamEmu/Plugins/SSEOverlay/550/icon
-/SmartSteamEmu/Plugins/x86/SSEOverlay.dll
-/SmartSteamEmu/Plugins/SSEOverlay/screenshot.wav
-/SmartSteamEmu/Plugins/SSEOverlay/message.wav
-/SmartSteamEmu/Plugins/SSEOverlay/Language.ini
-/SmartSteamEmu/Plugins/SSEOverlay/550/achievements.db
-/SmartSteamEmu/Plugins/SSEOverlay.ini
+/left4dead2_lv
 
 
 # Ignore left4dead2 folder files
 /left4dead2/*.*
+/left4dead2/*.md
+/left4dead2/pak*_*.vpk
 /left4dead2/whitelist.cfg
 /left4dead2/voice_ban.dt
 /left4dead2/steam.inf
@@ -55,7 +67,6 @@ SmartSteamEmu.INI
 /left4dead2/serverconfig.vdf
 /left4dead2/scene.cache
 /left4dead2/program_cache.cfg
-/left4dead2/pak*_*.vpk
 /left4dead2/motd.txt
 /left4dead2/modelsounds.cache
 /left4dead2/missioncycle.txt
@@ -67,22 +78,21 @@ SmartSteamEmu.INI
 /left4dead2/gameinfo.txt
 /left4dead2/dxsupport_override.cfg
 /left4dead2/demoheader.tmp
-/left4dead2/*.md
-/left4dead2/No_Friendly-Fire-8.5.md
-/left4dead2/Gun_Damage_Booster-7.0-README.md
 
 
-# Ignore left4dead2 addons folders
-/left4dead2/addons/RUNY_MODS
+### Ignore left4dead2 addons folders
+
+# Ignore addon list 
 /left4dead2/addonlist.txt
 
+# Ignore other mod packs
+/left4dead2/addons/RUNY_MODS
+
 # Ignore certain sourcemod stuff
+/left4dead2/addons/sourcemod/logs
 /left4dead2/addons/sourcemod/gamedata/left4dhooks.temp.txt
 /left4dead2/addons/sourcemod/gamedata/sdkhooks.games/game.zpanic.txt
 /left4dead2/addons/sourcemod/gamedata/sdktools.games/game.zpanic.txt
-
-# Dont need logs
-/left4dead2/addons/sourcemod/logs
 
 
 # Ignore left4dead2 folder folders
@@ -104,8 +114,6 @@ SmartSteamEmu.INI
 
 
 # Ignore left4dead2/cfg .cfg files that come with the game
-/left4dead2/cfg/*.*
-/left4dead2/cfg/*.cfg
 /left4dead2/cfg/videodefaults.txt
 /left4dead2/cfg/video.txt
 /left4dead2/cfg/video.bak
@@ -121,7 +129,33 @@ SmartSteamEmu.INI
 /left4dead2/cfg/splitscreen_off.360.cfg
 /left4dead2/cfg/moddefaults_mac.txt
 /left4dead2/cfg/moddefaults.txt
-
+/left4dead2/cfg/360controller.cfg
+/left4dead2/cfg/addonconfig.cfg
+/left4dead2/cfg/autoexec.360.cfg
+/left4dead2/cfg/banned_ip.cfg
+/left4dead2/cfg/config.360.cfg
+/left4dead2/cfg/config.cfg
+/left4dead2/cfg/config.global.360.cfg
+/left4dead2/cfg/config_default.cfg
+/left4dead2/cfg/joy_preset_1.cfg
+/left4dead2/cfg/joy_preset_2.cfg
+/left4dead2/cfg/joy_preset_3.cfg
+/left4dead2/cfg/joy_preset_4.cfg
+/left4dead2/cfg/listenserver.cfg
+/left4dead2/cfg/listenserver360.cfg
+/left4dead2/cfg/lowend.cfg
+/left4dead2/cfg/modsettings.cfg
+/left4dead2/cfg/perf.cfg
+/left4dead2/cfg/playtest.360.cfg
+/left4dead2/cfg/screenshots.cfg
+/left4dead2/cfg/screenshots_undo.cfg
+/left4dead2/cfg/settings_default.scr
+/left4dead2/cfg/skill1.cfg
+/left4dead2/cfg/video_bench_high.txt
+/left4dead2/cfg/video_bench_low.txt
+/left4dead2/cfg/video_bench_medium.txt
+/left4dead2/cfg/video_bench_very_high.txt
+/left4dead2/cfg/video_bench_very_high_4k.txt
 
 
 
