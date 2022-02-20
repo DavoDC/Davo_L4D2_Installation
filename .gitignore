@@ -33,6 +33,7 @@
 /unins000.exe
 /unins000.dat
 /left4dead2.exe
+/left4dead2.ico
 /steam_appid.txt
 
 
@@ -80,10 +81,13 @@
 /left4dead2/demoheader.tmp
 
 
-### Ignore left4dead2 addons folders
+### Ignore left4dead2 addons files/folders
 
 # Ignore addon list 
 /left4dead2/addonlist.txt
+
+# Ignore readme
+/left4dead2/addons/readme.txt
 
 # Ignore other mod packs
 /left4dead2/addons/RUNY_MODS
