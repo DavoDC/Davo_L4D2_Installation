@@ -3,7 +3,7 @@
 # Ignore certain file types
 *.sq3
 *.ekv
-*.bat
+*.mdmp
 
 ### Ignore personal files 
 # Let them use their own username etc.
