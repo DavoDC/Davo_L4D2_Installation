@@ -89,6 +89,9 @@
 # Ignore readme
 /left4dead2/addons/readme.txt
 
+# Ignore workshop mod files (but leave pics)
+/left4dead2/addons/workshop/*.vpk
+
 # Ignore other mod packs
 /left4dead2/addons/RUNY_MODS
 
@@ -97,6 +100,16 @@
 /left4dead2/addons/sourcemod/gamedata/left4dhooks.temp.txt
 /left4dead2/addons/sourcemod/gamedata/sdkhooks.games/game.zpanic.txt
 /left4dead2/addons/sourcemod/gamedata/sdktools.games/game.zpanic.txt
+
+# Ignore select things from media
+#/left4dead2/media
+left4dead2/media/l4d2_intro.bik
+left4dead2/media/l4d2_intro_lv.bik
+left4dead2/media/l4d2_intro_lv.mov
+left4dead2/media/l4d2_upsell.bik
+left4dead2/media/startupvids.360.txt
+left4dead2/media/valve.bik
+left4dead2/media/valve_xbox_legals.bik
 
 
 # Ignore left4dead2 folder folders
@@ -109,7 +122,6 @@
 /left4dead2/resource
 /left4dead2/reslists
 /left4dead2/models
-/left4dead2/media
 /left4dead2/materials
 /left4dead2/maps
 /left4dead2/gfx
@@ -160,6 +172,4 @@
 /left4dead2/cfg/video_bench_medium.txt
 /left4dead2/cfg/video_bench_very_high.txt
 /left4dead2/cfg/video_bench_very_high_4k.txt
-
-
 
