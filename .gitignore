@@ -89,8 +89,9 @@
 # Ignore readme
 /left4dead2/addons/readme.txt
 
-# Ignore workshop mod files (but leave pics)
-/left4dead2/addons/workshop/*.vpk
+# Ignore workshop mod files
+# Note: SteamSteamLoader deletes the contents!
+/left4dead2/addons/workshop/
 
 # Ignore other mod packs
 /left4dead2/addons/RUNY_MODS
