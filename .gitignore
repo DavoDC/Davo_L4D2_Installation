@@ -5,6 +5,7 @@
 *.ekv
 *.mdmp
 
+
 ### Ignore personal files 
 # Let them use their own username etc.
 /SmartSteamEmu.ini
@@ -41,6 +42,28 @@
 /SmartSteamEmu/Plugins/SSEOverlay/550/icon
 /SmartSteamEmu/Plugins/SSEOverlay/550/achievements.db
 
+# Ignore disabled  
+/SmartSteamEmu*DISABLED*/
+
+
+
+### Ignore left4dead2 addons files/folders
+
+# Ignore addon list 
+/left4dead2/addonlist.txt
+
+# Ignore readme
+/left4dead2/addons/readme.txt
+
+
+# Ignore workshop mod files
+# Note: SteamSteamLoader deletes the contents!
+/left4dead2/addons/workshop/
+
+# Ignore other mod packs
+/left4dead2/addons/RUNY_MODS
+/left4dead2/addons/DISABLED_MODS/
+   
 
 
 # Ignore folders in main directory
@@ -81,29 +104,8 @@
 /left4dead2/demoheader.tmp
 
 
-### Ignore left4dead2 addons files/folders
-
-# Ignore addon list 
-/left4dead2/addonlist.txt
-
-# Ignore readme
-/left4dead2/addons/readme.txt
-
-# Ignore workshop mod files
-# Note: SteamSteamLoader deletes the contents!
-/left4dead2/addons/workshop/
-
-# Ignore other mod packs
-/left4dead2/addons/RUNY_MODS
-
-# Ignore certain sourcemod stuff
-/left4dead2/addons/sourcemod/logs
-/left4dead2/addons/sourcemod/gamedata/left4dhooks.temp.txt
-/left4dead2/addons/sourcemod/gamedata/sdkhooks.games/game.zpanic.txt
-/left4dead2/addons/sourcemod/gamedata/sdktools.games/game.zpanic.txt
-
 # Ignore select things from media
-#/left4dead2/media
+###/left4dead2/media #include background edit
 left4dead2/media/l4d2_intro.bik
 left4dead2/media/l4d2_intro_lv.bik
 left4dead2/media/l4d2_intro_lv.mov
@@ -174,3 +176,107 @@ left4dead2/media/valve_xbox_legals.bik
 /left4dead2/cfg/video_bench_very_high.txt
 /left4dead2/cfg/video_bench_very_high_4k.txt
 
+
+
+
+
+# Ignore certain sourcemod stuff
+##/left4dead2/addons/sourcemod/gamedata/left4dhooks.temp.txt
+##/left4dead2/addons/sourcemod/gamedata/
+##/left4dead2/addons/sourcemod/gamedata/sdktools.games/engine.l4d.txt
+##/left4dead2/addons/sourcemod/gamedata/sdktools.games/engine.l4d2.txt
+##/left4dead2/addons/sourcemod/gamedata/sdkhooks.games/game.l4d2.txt
+##/left4dead2/addons/sourcemod/gamedata/sdktools.games/game.left4dead2.txt
+
+
+/left4dead2/addons/sourcemod/logs
+
+
+/left4dead2/addons/sourcemod/gamedata/core.games/engine.bms.txt
+/left4dead2/addons/sourcemod/gamedata/core.games/master.games.txt
+
+/left4dead2/addons/sourcemod/gamedata/sm-cstrike.games/game.css.txt
+/left4dead2/addons/sourcemod/gamedata/sm-tf2.games.txt
+
+/left4dead2/addons/sourcemod/gamedata/sdkhooks.games/game.ag2.txt
+/left4dead2/addons/sourcemod/gamedata/sdkhooks.games/game.alienswarm.txt
+/left4dead2/addons/sourcemod/gamedata/sdkhooks.games/game.aoc.txt
+/left4dead2/addons/sourcemod/gamedata/sdkhooks.games/game.cspromod.txt
+/left4dead2/addons/sourcemod/gamedata/sdkhooks.games/game.cstrike.txt
+/left4dead2/addons/sourcemod/gamedata/sdkhooks.games/game.dinodday.txt
+/left4dead2/addons/sourcemod/gamedata/sdkhooks.games/game.doi.txt
+/left4dead2/addons/sourcemod/gamedata/sdkhooks.games/game.empires.txt
+/left4dead2/addons/sourcemod/gamedata/sdkhooks.games/game.ff.txt
+/left4dead2/addons/sourcemod/gamedata/sdkhooks.games/game.gesource.txt
+/left4dead2/addons/sourcemod/gamedata/sdkhooks.games/game.hidden.txt
+/left4dead2/addons/sourcemod/gamedata/sdkhooks.games/game.insurgency.txt
+/left4dead2/addons/sourcemod/gamedata/sdkhooks.games/game.kz.txt
+/left4dead2/addons/sourcemod/gamedata/sdkhooks.games/game.zpanic.txt
+/left4dead2/addons/sourcemod/gamedata/sdktools.games/game.zpanic.txt
+/left4dead2/addons/sourcemod/gamedata/sdkhooks.games/game.modularcombat.txt
+/left4dead2/addons/sourcemod/gamedata/sdkhooks.games/game.neotokyo.txt
+/left4dead2/addons/sourcemod/gamedata/sdkhooks.games/game.nmrih.txt
+/left4dead2/addons/sourcemod/gamedata/sdkhooks.games/game.nucleardawn.txt
+/left4dead2/addons/sourcemod/gamedata/sdkhooks.games/game.reactivedrop.txt
+/left4dead2/addons/sourcemod/gamedata/sdkhooks.games/game.sgtls.txt
+/left4dead2/addons/sourcemod/gamedata/sdkhooks.games/game.sourceforts.txt
+/left4dead2/addons/sourcemod/gamedata/sdkhooks.games/game.synergy.txt
+/left4dead2/addons/sourcemod/gamedata/sdkhooks.games/game.zm.txt
+
+/left4dead2/addons/sourcemod/gamedata/sdkhooks.games/engine.blade.txt
+/left4dead2/addons/sourcemod/gamedata/sdkhooks.games/engine.contagion.txt
+/left4dead2/addons/sourcemod/gamedata/sdkhooks.games/engine.csgo.txt
+/left4dead2/addons/sourcemod/gamedata/sdkhooks.games/engine.darkm.txt
+/left4dead2/addons/sourcemod/gamedata/sdkhooks.games/engine.ep2v.txt
+/left4dead2/addons/sourcemod/gamedata/sdkhooks.games/engine.insurgency.txt
+/left4dead2/addons/sourcemod/gamedata/sdkhooks.games/engine.l4d.txt
+
+
+/left4dead2/addons/sourcemod/gamedata/sdkhooks.games/master.games.txt
+/left4dead2/addons/sourcemod/gamedata/sdktools.games/engine.bgt.txt
+/left4dead2/addons/sourcemod/gamedata/sdktools.games/engine.blade.txt
+/left4dead2/addons/sourcemod/gamedata/sdktools.games/engine.contagion.txt
+/left4dead2/addons/sourcemod/gamedata/sdktools.games/engine.csgo.txt
+/left4dead2/addons/sourcemod/gamedata/sdktools.games/engine.css.txt
+/left4dead2/addons/sourcemod/gamedata/sdktools.games/engine.darkm.txt
+/left4dead2/addons/sourcemod/gamedata/sdktools.games/engine.ep1.txt
+/left4dead2/addons/sourcemod/gamedata/sdktools.games/engine.ep2.txt
+/left4dead2/addons/sourcemod/gamedata/sdktools.games/engine.ep2valve.txt
+/left4dead2/addons/sourcemod/gamedata/sdktools.games/engine.eye.txt
+/left4dead2/addons/sourcemod/gamedata/sdktools.games/engine.insurgency.txt
+
+/left4dead2/addons/sourcemod/gamedata/sdktools.games/engine.sdk2013.txt
+/left4dead2/addons/sourcemod/gamedata/sdktools.games/engine.swarm.txt
+/left4dead2/addons/sourcemod/gamedata/sdktools.games/game.ag2.txt
+/left4dead2/addons/sourcemod/gamedata/sdktools.games/game.alienswarm.txt
+/left4dead2/addons/sourcemod/gamedata/sdktools.games/game.aoc.txt
+/left4dead2/addons/sourcemod/gamedata/sdktools.games/game.bg2.txt
+/left4dead2/addons/sourcemod/gamedata/sdktools.games/game.cspromod.txt
+/left4dead2/addons/sourcemod/gamedata/sdktools.games/game.cstrike.txt
+/left4dead2/addons/sourcemod/gamedata/sdktools.games/game.dinodday.txt
+/left4dead2/addons/sourcemod/gamedata/sdktools.games/game.dod.txt
+/left4dead2/addons/sourcemod/gamedata/sdktools.games/game.doi.txt
+/left4dead2/addons/sourcemod/gamedata/sdktools.games/game.dystopia.txt
+/left4dead2/addons/sourcemod/gamedata/sdktools.games/game.empires.txt
+/left4dead2/addons/sourcemod/gamedata/sdktools.games/game.esmod.txt
+/left4dead2/addons/sourcemod/gamedata/sdktools.games/game.fas.txt
+/left4dead2/addons/sourcemod/gamedata/sdktools.games/game.ff.txt
+/left4dead2/addons/sourcemod/gamedata/sdktools.games/game.fof.txt
+/left4dead2/addons/sourcemod/gamedata/sdktools.games/game.gesource.txt
+/left4dead2/addons/sourcemod/gamedata/sdktools.games/game.hidden.txt
+/left4dead2/addons/sourcemod/gamedata/sdktools.games/game.hl2mp.txt
+/left4dead2/addons/sourcemod/gamedata/sdktools.games/game.insurgency.txt
+/left4dead2/addons/sourcemod/gamedata/sdktools.games/game.kz.txt
+/left4dead2/addons/sourcemod/gamedata/sdktools.games/game.modularcombat.txt
+/left4dead2/addons/sourcemod/gamedata/sdktools.games/game.neotokyo.txt
+/left4dead2/addons/sourcemod/gamedata/sdktools.games/game.nmrih.txt
+/left4dead2/addons/sourcemod/gamedata/sdktools.games/game.nucleardawn.txt
+/left4dead2/addons/sourcemod/gamedata/sdktools.games/game.obsidian.txt
+/left4dead2/addons/sourcemod/gamedata/sdktools.games/game.pvkii.txt
+/left4dead2/addons/sourcemod/gamedata/sdktools.games/game.reactivedrop.txt
+/left4dead2/addons/sourcemod/gamedata/sdktools.games/game.rnlbeta.txt
+/left4dead2/addons/sourcemod/gamedata/sdktools.games/game.ship.txt
+/left4dead2/addons/sourcemod/gamedata/sdktools.games/game.sourceforts.txt
+/left4dead2/addons/sourcemod/gamedata/sdktools.games/game.synergy.txt
+/left4dead2/addons/sourcemod/gamedata/sdktools.games/game.zm.txt
+/left4dead2/addons/sourcemod/gamedata/sdktools.games/master.games.txt
