@@ -10,6 +10,7 @@ left4dead2/addons/zoey_shield_agent_357823887.vpk filter=lfs diff=lfs merge=lfs 
 
 # louis_usmc_335350107 - 73MB
 left4dead2/addons/louis_usmc_335350107.vpk filter=lfs diff=lfs merge=lfs -text
+left4dead2/addons/MY_DISABLED_MODS/louis_usmc_335350107.vpk filter=lfs diff=lfs merge=lfs -text
 
 # katana_kf2_562070011 - 48MB
 left4dead2/addons/katana_kf2_562070011.vpk filter=lfs diff=lfs merge=lfs -text

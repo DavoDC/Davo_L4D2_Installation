@@ -1,0 +1,27 @@
+- get anydesk
+(much faster if i get access to ur PC to do these steps , otherwise heaps of explaining/directing and very slow)
+
+- remove bad addons folder (that i told u to merge but didnt realize had issue)
+(extra step just for jazz)
+
+- get git: https://git-scm.com/downloads
+- git bash in folder next to game files
+- clone repo: git clone https://github.com/DavoDC/Davo_L4D2_Installation
+(the benefit of using git is you dont have to redownload my entire modpack if i change it!!! you just have to sync it and it will only download what has changed!!!)
+
+- merge into game files
+
+- show folder structure - how to switch mods, dont put 2 with same start
+
+- set launch options in steam
+-steam -novid -insecure -high -useallavailablecores -verbose +exec autoexec.cfg +sv_consistency 0 
+
+
+- launch game - test!
+- show dev console (tilde ~)
+
+- show item drop (press G)
+
+- show switching between AI
+sm_sb  and sb_takecontrol
+sb_t TAB
