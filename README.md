@@ -15,7 +15,9 @@ https://drive.google.com/file/d/1CtmxCOxYB2zfIfUo3O8iPz47Y1GQp3dP
 
 Note: Causes crash if you use as is (???).  
 Redownload and integrate to fix:
+<br>
 https://www.sourcemod.net/downloads.php?branch=stable
+<br>
 https://www.sourcemm.net/downloads.php?branch=stable
 
 
