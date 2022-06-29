@@ -22,6 +22,7 @@ if i change it!!! you just have to sync it and it will only download what has ch
 
 
 6. Show folder structure - how to switch mods, dont put 2 with same start
+- Set left4dead2 compatibility - run as admin!
 
 
 7. Set launch options in steam
@@ -33,8 +34,7 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1291797268
 
 
 9. Launch game - test!
-- show dev console (tilde ~)
-- show item drop (press G)
-- show switching between AI
-sm_sb  and sb_takecontrol
-sb_t TAB
+- Turn in dev console in settings (only in main menu!)
+- Show dev console (tilde ~)
+- Show switching between AI  = 'switch' command (alias) in dev console
+- Show item drop (press G)
