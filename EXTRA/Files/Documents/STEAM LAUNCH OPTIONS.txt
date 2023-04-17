@@ -1,0 +1,6 @@
+
+
+-steam -novid -insecure -high -useallavailablecores -verbose +exec autoexec.cfg +sv_consistency 0
+
+
+-steam -novid -secure -high -useallavailablecores -verbose +exec autoexec.cfg +sv_consistency 0

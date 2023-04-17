@@ -1,0 +1,40 @@
+STEPS
+
+
+1. Get teamviewer/anydesk/parsec etc
+(much faster if i get access to ur PC to do these steps , 
+otherwise heaps of explaining/directing and very slow)
+
+
+2. Get git: https://git-scm.com/downloads
+(NEED GIT LFS!!)
+
+
+3. Git bash in folder next to game files
+
+
+4. Clone repo: git clone https://github.com/DavoDC/Davo_L4D2_Installation
+(the benefit of using git is you dont have to redownload my entire modpack 
+if i change it!!! you just have to sync it and it will only download what has changed!!!)
+
+
+5. Merge into game files
+
+
+6. Show folder structure - how to switch mods, dont put 2 with same start
+- Set left4dead2 compatibility - run as admin!
+
+
+7. Set launch options in steam
+-steam -novid -insecure -high -useallavailablecores -verbose +exec autoexec.cfg +sv_consistency 0 
+
+
+8. Subscribe to mod
+https://steamcommunity.com/sharedfiles/filedetails/?id=1291797268
+
+
+9. Launch game - test!
+- Turn in dev console in settings (only in main menu!)
+- Show dev console (tilde ~)
+- Show switching between AI  = 'switch' command (alias) in dev console
+- Show item drop (press G)

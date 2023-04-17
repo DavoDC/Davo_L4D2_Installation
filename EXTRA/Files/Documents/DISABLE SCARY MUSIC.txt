@@ -1,0 +1,6 @@
+C:\Program Files (x86)\Steam\steamapps\common
+
+\Left 4 Dead 2\left4dead2\sound\music\l4d2
+
+
+Move ALL files there into a "DISABLED" folder

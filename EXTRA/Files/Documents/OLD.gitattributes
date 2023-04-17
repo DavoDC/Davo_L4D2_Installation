@@ -1,0 +1,23 @@
+
+# GIT LFS DISABLED BECAUSE FULL
+# Add large mods
+# Use " git lfs track 'file.ext' "
+#
+# bill_ncr_ranger_765653864 - 100MB
+# left4dead2/addons/bill_ncr_ranger_765653864.vpk filter=lfs diff=lfs merge=lfs -text
+
+# # francis_jaguarmeister_691337608 - 93MB
+# left4dead2/addons/francis_jaguarmeister_691337608.vpk filter=lfs diff=lfs merge=lfs -text
+
+# # zoey_shield_agent_357823887 - 78MB
+# left4dead2/addons/zoey_shield_agent_357823887.vpk filter=lfs diff=lfs merge=lfs -text
+
+# # louis_usmc_335350107 - 73MB
+# left4dead2/addons/louis_usmc_335350107.vpk filter=lfs diff=lfs merge=lfs -text
+# left4dead2/addons/MY_DISABLED_MODS/louis_usmc_335350107.vpk filter=lfs diff=lfs merge=lfs -text
+
+# # katana_kf2_562070011 - 48MB
+# left4dead2/addons/katana_kf2_562070011.vpk filter=lfs diff=lfs merge=lfs -text
+
+# # defibrillator_animated_121082081 - 43MB
+# left4dead2/addons/defibrillator_animated_121082081.vpk filter=lfs diff=lfs merge=lfs -text
