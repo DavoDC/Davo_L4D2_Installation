@@ -21,4 +21,4 @@ for how to use this repo.
 
 ## Development
 
-**Started:** April 2023 · **Last updated:** August 2023
+**Developed:** April 2023
