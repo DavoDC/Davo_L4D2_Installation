@@ -15,5 +15,6 @@ for how to use this repo.
 - Remember to configure your `SmartSteamEmu.ini` (See guide).
 - Here is my [SmartSteamEmu.ini ](https://drive.google.com/file/d/1CtmxCOxYB2zfIfUo3O8iPz47Y1GQp3dP) file which you can use as a base.
 
-## Todo
-Note to self: Make full steps on how to set up Steam version on next gothrough.
+## Development
+
+**Started:** April 2023 · **Last updated:** August 2023
