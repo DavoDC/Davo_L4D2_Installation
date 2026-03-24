@@ -1,4 +1,8 @@
 # Davo's L4D2 Installation
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G31WKOCN)
+
+
 My Left 4 Dead 2 mods, plugins and configuration.
 
 ## Guide Link
